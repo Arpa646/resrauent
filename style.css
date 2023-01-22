@@ -14,3 +14,10 @@ width: ;
 .cc{
 height: 400px;
 }
+
+.bg-green{
+    background-color: #8EC63F;
+}
+.text-green{
+    color: #8EC63F;
+}

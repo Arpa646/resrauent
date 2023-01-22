@@ -1,0 +1,16 @@
+/* .banner{
+background-color: aqua;
+width: ;
+}
+.banner img{
+    width: 100%;
+} */
+.banner{
+    height: 900px;
+    background-image: url("./img/banner-2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cc{
+height: 400px;
+}
